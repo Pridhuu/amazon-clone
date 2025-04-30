@@ -152,7 +152,7 @@ main{
 .link{
     height: 30px;
     width: 1300px;
-    background-color: white;
+    background-color: rgb(237, 237, 237);
     position: absolute;
     top: 350px;
     display: flex;
