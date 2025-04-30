@@ -16,7 +16,7 @@
     width: 120px;
 }
 .amazon{
-    background-image: url(amazon_logo.png);
+    background-image: url(img/amazon_logo.png);
     background-size: contain;
     height: 60px;
     width: 120px;
@@ -144,7 +144,7 @@ main{
     z-index: -2;
 }
 .hero_section{
-    background-image: url(hero.jpg);
+    background-image: url(img/hero.jpg);
     background-size: cover;
     width: 1600px;
     height: 540px;
